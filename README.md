@@ -1,0 +1,3 @@
+# README
+
+This was an project from Freshman year that I've dug up from my old Replit account (rip). Using this to make something else...
